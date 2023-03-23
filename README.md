@@ -1,5 +1,4 @@
 # IMC-
-peso = int(input("Digite seu peso: "))
-altura = float(input("Digite sua altura: "))
-imc =peso/(altura*altura)
-print ( "seu imc é : %.2f"% (imc))
+Projeto feito em Python, com o objetivo em calcular o IMC ( Ìndice de Massa Corporal )
+
+
